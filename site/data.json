@@ -6340,8 +6340,8 @@
       "date": "2025-10-24",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16238184782",
       "year": 2025
     },
@@ -6502,8 +6502,8 @@
       "date": "2025-11-18",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16490974467",
       "year": 2025
     },
@@ -6511,8 +6511,8 @@
       "date": "2025-11-19",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16501405518",
       "year": 2025
     },
@@ -6520,8 +6520,8 @@
       "date": "2025-11-20",
       "hour": 10,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16511234678",
       "year": 2025
     },
@@ -6529,8 +6529,8 @@
       "date": "2025-11-21",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16521094203",
       "year": 2025
     },
@@ -6538,8 +6538,8 @@
       "date": "2025-11-22",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16529827696",
       "year": 2025
     },
@@ -6601,8 +6601,8 @@
       "date": "2025-12-03",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16635032056",
       "year": 2025
     },
@@ -6619,8 +6619,8 @@
       "date": "2025-12-04",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16644827436",
       "year": 2025
     },
@@ -6628,8 +6628,8 @@
       "date": "2025-12-06",
       "hour": 10,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16662380381",
       "year": 2025
     },
@@ -6682,8 +6682,8 @@
       "date": "2025-12-15",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16745617047",
       "year": 2025
     },
@@ -6691,8 +6691,8 @@
       "date": "2025-12-16",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16754562452",
       "year": 2025
     },
@@ -6700,8 +6700,8 @@
       "date": "2025-12-17",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16764116064",
       "year": 2025
     },
@@ -6808,8 +6808,8 @@
       "date": "2026-01-03",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16919230615",
       "year": 2026
     },
@@ -6826,8 +6826,8 @@
       "date": "2026-01-05",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16941325709",
       "year": 2026
     },
@@ -6835,8 +6835,8 @@
       "date": "2026-01-06",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/16952183619",
       "year": 2026
     },
@@ -7285,8 +7285,8 @@
       "date": "2026-03-09",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/17655858947",
       "year": 2026
     },
@@ -10975,6 +10975,116 @@
       }
     },
     "2025": {
+      "Dance": {
+        "2025-10-24": {
+          "activity_ids": [
+            "16238184782"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7235.0
+        },
+        "2025-11-18": {
+          "activity_ids": [
+            "16490974467"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 9149.0
+        },
+        "2025-11-19": {
+          "activity_ids": [
+            "16501405518"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7395.0
+        },
+        "2025-11-20": {
+          "activity_ids": [
+            "16511234678"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7057.0
+        },
+        "2025-11-21": {
+          "activity_ids": [
+            "16521094203"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 14290.0
+        },
+        "2025-11-22": {
+          "activity_ids": [
+            "16529827696"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 14889.0
+        },
+        "2025-12-03": {
+          "activity_ids": [
+            "16635032056"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8325.0
+        },
+        "2025-12-04": {
+          "activity_ids": [
+            "16644827436"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 11360.0
+        },
+        "2025-12-06": {
+          "activity_ids": [
+            "16662380381"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 12601.0
+        },
+        "2025-12-15": {
+          "activity_ids": [
+            "16745617047"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7613.0
+        },
+        "2025-12-16": {
+          "activity_ids": [
+            "16754562452"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 10394.0
+        },
+        "2025-12-17": {
+          "activity_ids": [
+            "16764116064"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 9827.0
+        }
+      },
       "Ride": {
         "2025-04-06": {
           "activity_ids": [
@@ -13221,15 +13331,6 @@
           "elevation_gain": 0.0,
           "moving_time": 3025.0
         },
-        "2025-10-24": {
-          "activity_ids": [
-            "16238184782"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 7235.0
-        },
         "2025-10-28": {
           "activity_ids": [
             "16278285313"
@@ -13302,51 +13403,6 @@
           "elevation_gain": 0.0,
           "moving_time": 5267.0
         },
-        "2025-11-18": {
-          "activity_ids": [
-            "16490974467"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 9149.0
-        },
-        "2025-11-19": {
-          "activity_ids": [
-            "16501405518"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 7395.0
-        },
-        "2025-11-20": {
-          "activity_ids": [
-            "16511234678"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 7057.0
-        },
-        "2025-11-21": {
-          "activity_ids": [
-            "16521094203"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 14290.0
-        },
-        "2025-11-22": {
-          "activity_ids": [
-            "16529827696"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 14889.0
-        },
         "2025-11-28": {
           "activity_ids": [
             "16588060662"
@@ -13364,33 +13420,6 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2460.0
-        },
-        "2025-12-03": {
-          "activity_ids": [
-            "16635032056"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 8325.0
-        },
-        "2025-12-04": {
-          "activity_ids": [
-            "16644827436"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 11360.0
-        },
-        "2025-12-06": {
-          "activity_ids": [
-            "16662380381"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 12601.0
         },
         "2025-12-08": {
           "activity_ids": [
@@ -13428,33 +13457,6 @@
           "elevation_gain": 0.0,
           "moving_time": 901.0
         },
-        "2025-12-15": {
-          "activity_ids": [
-            "16745617047"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 7613.0
-        },
-        "2025-12-16": {
-          "activity_ids": [
-            "16754562452"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 10394.0
-        },
-        "2025-12-17": {
-          "activity_ids": [
-            "16764116064"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 9827.0
-        },
         "2025-12-18": {
           "activity_ids": [
             "16776244648"
@@ -13486,6 +13488,42 @@
     },
     "2026": {
       "Dance": {
+        "2026-01-03": {
+          "activity_ids": [
+            "16919230615"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8850.0
+        },
+        "2026-01-05": {
+          "activity_ids": [
+            "16941325709"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 9474.0
+        },
+        "2026-01-06": {
+          "activity_ids": [
+            "16952183619"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8838.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17655858947"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8641.0
+        },
         "2026-03-28": {
           "activity_ids": [
             "17883641614"
@@ -14016,15 +14054,6 @@
           "elevation_gain": 0.0,
           "moving_time": 2309.0
         },
-        "2026-01-03": {
-          "activity_ids": [
-            "16919230615"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 8850.0
-        },
         "2026-01-04": {
           "activity_ids": [
             "16931488273"
@@ -14033,24 +14062,6 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 7472.0
-        },
-        "2026-01-05": {
-          "activity_ids": [
-            "16941325709"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 9474.0
-        },
-        "2026-01-06": {
-          "activity_ids": [
-            "16952183619"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 8838.0
         },
         "2026-01-28": {
           "activity_ids": [
@@ -14143,15 +14154,6 @@
           "elevation_gain": 0.0,
           "moving_time": 8785.0
         },
-        "2026-03-09": {
-          "activity_ids": [
-            "17655858947"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 8641.0
-        },
         "2026-03-15": {
           "activity_ids": [
             "17724021822"
@@ -14191,7 +14193,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T22:37:45.565196+00:00",
+  "generated_at": "2026-04-10T09:14:26.472907+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/30134211",
   "repo": "imthemanadrian/git-sweaty",
