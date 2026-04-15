@@ -10849,9 +10849,9 @@
     "moving_time": 8035.0,
     "name": "Morning Workout",
     "raw_activity_type": "Workout",
-    "raw_type": "Workout",
+    "raw_type": "Dance",
     "start_date_local": "2026-04-11T09:38:21Z",
-    "type": "Workout",
+    "type": "Dance",
     "year": 2026
   },
   {
@@ -10875,8 +10875,21 @@
     "moving_time": 8760.0,
     "name": "Morning Workout",
     "raw_activity_type": "Workout",
-    "raw_type": "Workout",
+    "raw_type": "Dance",
     "start_date_local": "2026-04-14T10:39:50Z",
+    "type": "Dance",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18114741653",
+    "moving_time": 8763.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-15T09:31:17Z",
     "type": "Workout",
     "year": 2026
   }

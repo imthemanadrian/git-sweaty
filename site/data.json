@@ -7510,8 +7510,8 @@
       "date": "2026-04-11",
       "hour": 9,
       "name": "Morning Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "Dance",
+      "type": "Dance",
       "url": "https://www.strava.com/activities/18060866114",
       "year": 2026
     },
@@ -7528,9 +7528,18 @@
       "date": "2026-04-14",
       "hour": 10,
       "name": "Morning Workout",
+      "subtype": "Dance",
+      "type": "Dance",
+      "url": "https://www.strava.com/activities/18099925767",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 9,
+      "name": "Morning Workout",
       "subtype": "Workout",
       "type": "Workout",
-      "url": "https://www.strava.com/activities/18099925767",
+      "url": "https://www.strava.com/activities/18114741653",
       "year": 2026
     }
   ],
@@ -13586,6 +13595,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 8672.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18060866114"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8035.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18099925767"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8760.0
         }
       },
       "Run": {
@@ -14226,28 +14253,19 @@
           "elevation_gain": 0.0,
           "moving_time": 1441.0
         },
-        "2026-04-11": {
+        "2026-04-15": {
           "activity_ids": [
-            "18060866114"
+            "18114741653"
           ],
           "count": 1,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 8035.0
-        },
-        "2026-04-14": {
-          "activity_ids": [
-            "18099925767"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 8760.0
+          "moving_time": 8763.0
         }
       }
     }
   },
-  "generated_at": "2026-04-14T16:06:38.674454+00:00",
+  "generated_at": "2026-04-15T16:04:14.861331+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/30134211",
   "repo": "imthemanadrian/git-sweaty",
