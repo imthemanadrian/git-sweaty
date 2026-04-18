@@ -7559,6 +7559,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18146447690",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 10,
+      "name": "Morning Rock Climb",
+      "subtype": "RockClimbing",
+      "type": "RockClimbing",
+      "url": "https://www.strava.com/activities/18152883214",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13633,6 +13642,17 @@
           "moving_time": 8760.0
         }
       },
+      "RockClimbing": {
+        "2026-04-18": {
+          "activity_ids": [
+            "18152883214"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 9884.0
+        }
+      },
       "Run": {
         "2026-01-01": {
           "activity_ids": [
@@ -14301,7 +14321,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:59:07.226251+00:00",
+  "generated_at": "2026-04-18T15:36:15.556164+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/30134211",
   "repo": "imthemanadrian/git-sweaty",
@@ -14319,6 +14339,10 @@
     "Ride": {
       "accent": "#05ffa1",
       "label": "Ride"
+    },
+    "RockClimbing": {
+      "accent": "#fb5607",
+      "label": "Rock Climbing"
     },
     "Run": {
       "accent": "#01cdfe",
@@ -14348,6 +14372,7 @@
   "types": [
     "HighIntensityIntervalTraining",
     "Ride",
+    "RockClimbing",
     "Run",
     "Swim",
     "TrailRun",
