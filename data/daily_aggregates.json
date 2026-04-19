@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T15:36:15.540744+00:00",
+  "generated_at": "2026-04-19T15:36:16.701758+00:00",
   "years": {
     "2018": {
       "Run": {
@@ -6075,12 +6075,13 @@
       "RockClimbing": {
         "2026-04-18": {
           "activity_ids": [
-            "18152883214"
+            "18152883214",
+            "18166246849"
           ],
-          "count": 1,
+          "count": 2,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 9884.0
+          "moving_time": 14081.0
         }
       },
       "Run": {
@@ -6553,6 +6554,15 @@
           "distance": 5525.7,
           "elevation_gain": 34.0,
           "moving_time": 2230.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18171737791"
+          ],
+          "count": 1,
+          "distance": 7035.9,
+          "elevation_gain": 67.0,
+          "moving_time": 3106.0
         }
       },
       "Walk": {

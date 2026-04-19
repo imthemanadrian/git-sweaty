@@ -10931,5 +10931,31 @@
     "start_date_local": "2026-04-18T10:35:33Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18166246849",
+    "moving_time": 4197.0,
+    "name": "Afternoon Rock Climb",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-04-18T15:52:23Z",
+    "type": "RockClimbing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 7035.9,
+    "elevation_gain": 67.0,
+    "id": "18171737791",
+    "moving_time": 3106.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T19:48:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
