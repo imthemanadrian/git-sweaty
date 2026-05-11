@@ -11139,5 +11139,18 @@
     "start_date_local": "2026-05-10T06:11:48Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 5025.0,
+    "elevation_gain": 0.0,
+    "id": "18459381862",
+    "moving_time": 2220.0,
+    "name": "Ang init",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-11T10:58:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
