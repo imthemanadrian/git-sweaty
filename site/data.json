@@ -7928,6 +7928,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18845591761",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 13,
+      "name": "Afternoon Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18869748082",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 20,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18878108797",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14727,6 +14745,15 @@
           "distance": 4073.8,
           "elevation_gain": 0.0,
           "moving_time": 1803.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18878108797"
+          ],
+          "count": 1,
+          "distance": 5008.9,
+          "elevation_gain": 15.8,
+          "moving_time": 1941.0
         }
       },
       "Swim": {
@@ -15031,11 +15058,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2290.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18869748082"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 994.0
         }
       }
     }
   },
-  "generated_at": "2026-06-10T17:56:17.670883+00:00",
+  "generated_at": "2026-06-11T18:10:52.244815+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/30134211",
   "repo": "imthemanadrian/git-sweaty",
