@@ -11594,5 +11594,44 @@
     "start_date_local": "2026-06-27T01:29:28Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 11026.7,
+    "elevation_gain": 339.0,
+    "id": "19088243923",
+    "moving_time": 4946.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T23:12:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 1191.8,
+    "elevation_gain": 8.0,
+    "id": "19088364604",
+    "moving_time": 974.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-28T00:37:48Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19093155745",
+    "moving_time": 10325.0,
+    "name": "Morning Pickleball",
+    "raw_activity_type": "Workout",
+    "raw_type": "Pickleball",
+    "start_date_local": "2026-06-28T09:11:51Z",
+    "type": "Pickleball",
+    "year": 2026
   }
 ]
