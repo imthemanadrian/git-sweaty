@@ -11633,5 +11633,18 @@
     "start_date_local": "2026-06-28T09:11:51Z",
     "type": "Pickleball",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 5126.7,
+    "elevation_gain": 14.9,
+    "id": "19116848309",
+    "moving_time": 2114.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T05:34:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
